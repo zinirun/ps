@@ -1,6 +1,6 @@
 # Python-CodingTest
 Problem Solving(Algorithm)
-#### 百見不如一打
+百見不如一打
 ### Problems from
 - <a href="https://programmers.co.kr">Programmers</a>
 - <a href="https://www.acmicpc.net/">Acmicpc</a>
