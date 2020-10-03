@@ -1,4 +1,4 @@
-# Python-CodingTest
+# Problem Solving
 Problem Solving(Algorithm)
 ### Problems from
 - <a href="https://programmers.co.kr">Programmers</a>
